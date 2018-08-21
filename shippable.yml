@@ -15,6 +15,6 @@ build:
     - ./hello
 
   post_ci:
-    - sleep 4800
+    #- sleep 4800
     - echo "true_8"
 
